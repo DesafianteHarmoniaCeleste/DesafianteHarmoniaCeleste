@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pedro Gasparelo Leme
 ============================================================================================================================================
 
-embedded systems / IoT enthusiast
+embedded systems / IoT / aeronautics enthusiast
 ---------------------------------
 
 I have been studying programming since 2023, where I started with simple C codes. Nowadays I am familiar with C/C++/python, Arduino & ESP32 and VHDL, and I use this knowledge to build satellites and rockets for my competitive aerospace team.
